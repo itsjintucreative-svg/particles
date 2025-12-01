@@ -1,0 +1,5 @@
+{
+  "name": "Standard Model Explorer",
+  "description": "An interactive 3D-styled explorer for the Standard Model of Particle Physics, featuring AI-powered explanations and interaction visualizations.",
+  "requestFramePermissions": []
+}
